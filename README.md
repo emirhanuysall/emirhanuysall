@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I continue to learn something new every day and I will continue to do so.<br>⚡I improve my skills <br>- ⚙️Backend: .NET (C#), Entity Framework,  MSSQL, ABP Framework<br>- 💻 Frontend: Vue.js, Nuxt.js, HTML/CSS<br>- 📱 Mobile: Flutter <br>- 🧠 AI & Image Processing:Python, OpenCV, YOLO, TensorFlow<br>- 🐳 Other: Docker, Git, Swagger, Firebase</p>
+<p align="left"> I continue to learn something new every day and I will continue to do so.<br>I improve my skills <br>- Backend: .NET (C#), Entity Framework,  MSSQL, ABP Framework<br>-  Frontend: Vue.js, Nuxt.js, HTML/CSS<br>- Mobile: Flutter <br>-  AI & Image Processing:Python, OpenCV, YOLO, TensorFlow<br>-  Other: Docker, Git, Swagger, Firebase</p>
 
 ###
 
